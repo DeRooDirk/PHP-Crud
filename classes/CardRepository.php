@@ -36,7 +36,7 @@ class CardRepository
     // Get one
     public function find()
     {
-
+      
     }
 
     // Get all
